@@ -1,5 +1,5 @@
 ## Gaussian Plume Model ##
 
-Running the model
+### Running the model ###
 
-run -i gaussian_plume_model.py
+`run -i gaussian_plume_model.py`
